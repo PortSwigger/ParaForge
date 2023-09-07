@@ -1,0 +1,13 @@
+Uuid: 758fc1dce0ae47cfb55b76995b29d58e
+ExtensionType: 2
+Name: ParaForge
+RepoName: paraforge
+ScreenVersion: 0.1
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Anof-cyber
+ShortDescription: ParaForge is a handy tool that helps gather information from requests. It extracts parameters and the Request endpoint to create customized wordlists, which are saved in endpoint.txt and parameter.txt files.
+EntryPoint: ParaForge.py
+BuildCommand: 
+SupportedProducts: Pro, Community
